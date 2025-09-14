@@ -1,0 +1,14 @@
+C:\Users\Mauro Rosa\Downloads\trab-fracao\bin\Debug\net9.0\trab-fracao.exe
+C:\Users\Mauro Rosa\Downloads\trab-fracao\bin\Debug\net9.0\trab-fracao.deps.json
+C:\Users\Mauro Rosa\Downloads\trab-fracao\bin\Debug\net9.0\trab-fracao.runtimeconfig.json
+C:\Users\Mauro Rosa\Downloads\trab-fracao\bin\Debug\net9.0\trab-fracao.dll
+C:\Users\Mauro Rosa\Downloads\trab-fracao\bin\Debug\net9.0\trab-fracao.pdb
+C:\Users\Mauro Rosa\Downloads\trab-fracao\obj\Debug\net9.0\trab-fracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauro Rosa\Downloads\trab-fracao\obj\Debug\net9.0\trab-fracao.AssemblyInfoInputs.cache
+C:\Users\Mauro Rosa\Downloads\trab-fracao\obj\Debug\net9.0\trab-fracao.AssemblyInfo.cs
+C:\Users\Mauro Rosa\Downloads\trab-fracao\obj\Debug\net9.0\trab-fracao.csproj.CoreCompileInputs.cache
+C:\Users\Mauro Rosa\Downloads\trab-fracao\obj\Debug\net9.0\trab-fracao.dll
+C:\Users\Mauro Rosa\Downloads\trab-fracao\obj\Debug\net9.0\refint\trab-fracao.dll
+C:\Users\Mauro Rosa\Downloads\trab-fracao\obj\Debug\net9.0\trab-fracao.pdb
+C:\Users\Mauro Rosa\Downloads\trab-fracao\obj\Debug\net9.0\trab-fracao.genruntimeconfig.cache
+C:\Users\Mauro Rosa\Downloads\trab-fracao\obj\Debug\net9.0\ref\trab-fracao.dll
